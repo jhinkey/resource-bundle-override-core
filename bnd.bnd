@@ -1,0 +1,4 @@
+Bundle-Name: resource-bundle-override-core
+Bundle-SymbolicName: com.liferay.override.resource.bundle.core
+Bundle-Version: 1.0.0
+Export-Package: com.liferay.override.resource.bundle.core.api
